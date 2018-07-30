@@ -1,0 +1,12 @@
+/* Webfont: AkwePro-HairlineItalic */@font-face {
+    font-family: 'AkweProHairline';
+    src: url('AkwePro-HairlineItalic.eot'); /* IE9 Compat Modes */
+    src: url('AkwePro-HairlineItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('AkwePro-HairlineItalic.woff') format('woff'), /* Modern Browsers */
+         url('AkwePro-HairlineItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('AkwePro-HairlineItalic.svg#AkwePro-HairlineItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

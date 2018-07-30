@@ -1,0 +1,12 @@
+/* Webfont: AkweProCon-LightItalic */@font-face {
+    font-family: 'AkweProConLight';
+    src: url('AkweProCon-LightItalic.eot'); /* IE9 Compat Modes */
+    src: url('AkweProCon-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('AkweProCon-LightItalic.woff') format('woff'), /* Modern Browsers */
+         url('AkweProCon-LightItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('AkweProCon-LightItalic.svg#AkweProCon-LightItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

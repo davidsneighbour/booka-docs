@@ -1,0 +1,12 @@
+/* Webfont: AkweProNar-ThinItalic */@font-face {
+    font-family: 'AkweProNarThin';
+    src: url('AkweProNar-ThinItalic.eot'); /* IE9 Compat Modes */
+    src: url('AkweProNar-ThinItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('AkweProNar-ThinItalic.woff') format('woff'), /* Modern Browsers */
+         url('AkweProNar-ThinItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('AkweProNar-ThinItalic.svg#AkweProNar-ThinItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

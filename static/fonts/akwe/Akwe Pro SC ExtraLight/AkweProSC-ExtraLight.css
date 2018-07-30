@@ -1,0 +1,12 @@
+/* Webfont: AkweProSC-ExtraLight */@font-face {
+    font-family: 'AkweProSCExtraLight';
+    src: url('AkweProSC-ExtraLight.eot'); /* IE9 Compat Modes */
+    src: url('AkweProSC-ExtraLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('AkweProSC-ExtraLight.woff') format('woff'), /* Modern Browsers */
+         url('AkweProSC-ExtraLight.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('AkweProSC-ExtraLight.svg#AkweProSC-ExtraLight') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

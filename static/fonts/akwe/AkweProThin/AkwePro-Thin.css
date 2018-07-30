@@ -1,0 +1,12 @@
+/* Webfont: AkwePro-Thin */@font-face {
+    font-family: 'AkweProThin';
+    src: url('AkwePro-Thin.eot'); /* IE9 Compat Modes */
+    src: url('AkwePro-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('AkwePro-Thin.woff') format('woff'), /* Modern Browsers */
+         url('AkwePro-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('AkwePro-Thin.svg#AkwePro-Thin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
