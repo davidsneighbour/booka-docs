@@ -11,6 +11,7 @@ chapter: true
 
 | ID | Class | Notes |
 | --- | ----- | ----- |
+| 100### | Configuration | |
 | 300### | Users |  |
 | 305### | Userroles | |
 | 307### | Userrights | |
