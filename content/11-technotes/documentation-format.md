@@ -9,8 +9,6 @@ chapter: true
 
 Following the used PHPDoc tags in Booka based on their location. Note that we apply a strict inheritance rule to keep code lines low. If the tag is defined on file or class level don't repeat it further down if it's not changed.
 
-Refer to api5/class-template.php for a fully documented object file.
-
 ## Official documentation
 
 - [PHPDoc reference — phpDocumentor](https://docs.phpdoc.org/references/phpdoc/index.html)
