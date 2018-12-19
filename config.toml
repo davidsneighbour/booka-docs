@@ -1,4 +1,4 @@
-baseURL = "https://documentation.inkohsamui.com/"
+baseURL = "/api5/documentation/techdocs/"
 languageCode = "en-us"
 title = "Booka Users Documentation"
 
@@ -7,7 +7,7 @@ archetypeDir = "archetypes"
 contentDir = "content"
 dataDir = "data"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "../app/api5/documentation/techdocs"
 staticDir = "static"
 themesDir = "themes"
 
